@@ -37,3 +37,16 @@ Code Steps:
 
     Clean Tweet (using Regex function)
     Analyze Sentiment (TextBlob) - Positive, Negative, Neutral Tweets
+
+***Final Result and Conclusion***
+<p align="center">
+  <img width="600" alt="java 8 and prio java 8  array review example" img align="center" src ="https://github.com/worklifesg/Natural-Language-Processing/blob/main/images/EDA7.png">
+</p>
+
+****Conclusion****
+
+ * It is observed that Barack Obama has highest number of followers on Twitter even though he is not current US President but due to his positive tweets towards everyone on different issues (60%).
+ * On other side, musician and sports people are always in controversy and have split tweets between positive and neutral tweets.
+ * Politician like Narendra Modi plays safe as by giving neutral tweets and is very cautious about his image in public and has negative tweets even less than twitter itself.
+ * While comparing Donald Trump with other political leaders, he seems to be open about various issues and tends to be on negative side and playing bit safe with 50% neutral tweets.
+ * As predicted news channel tend to give negative news a lot, CNN breaking News leads at the top of having 20% negative tweets.
