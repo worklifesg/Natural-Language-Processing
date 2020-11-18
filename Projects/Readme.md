@@ -22,18 +22,18 @@ Final step is to analyze sentiment analysis on this tweets first by cleaning and
 As we can request 200 tweets per time alloted, so we need to analyze these seven accounts separately and then compare their sentiment together in a different visualization charts
 Code Steps:
 
-***Data Engineering***
+***[Data Engineering](https://github.com/worklifesg/Natural-Language-Processing/blob/main/Projects/1.%20Sentiment%20Analysis%20using%20Real%20Time%20Twitter%20Data/0_Data_Engineering.md)***
 
     Import libraries (tweepy, pandas, numpy, matplotlib, textblob, re
     Creating Twitter App (using Twitter Developer API Account)
     Importing Tweets (cuurent real time last 200 tweets)
     Creating a tweet combined DataFrame with details for each data
 
-***Data Analysis/Visulaization***
+***[Data Cleaning & Structuring](https://github.com/worklifesg/Natural-Language-Processing/blob/main/Projects/1.%20Sentiment%20Analysis%20using%20Real%20Time%20Twitter%20Data/1_Data_Cleaning_Structuring.md), [EDA & Data Visualization](https://github.com/worklifesg/Natural-Language-Processing/blob/main/Projects/1.%20Sentiment%20Analysis%20using%20Real%20Time%20Twitter%20Data/2_EDA_DataVisualization.md)***
 
     Tweets Time Series Analysis
 
-***Sentiment Analysis***
+***[Sentiment Analysis](https://github.com/worklifesg/Natural-Language-Processing/blob/main/Projects/1.%20Sentiment%20Analysis%20using%20Real%20Time%20Twitter%20Data/3_Sentiment_Analysis.md)***
 
     Clean Tweet (using Regex function)
     Analyze Sentiment (TextBlob) - Positive, Negative, Neutral Tweets
