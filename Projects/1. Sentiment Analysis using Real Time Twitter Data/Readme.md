@@ -26,7 +26,7 @@ Code Steps:
     Importing Tweets (cuurent real time last 200 tweets)
     Creating a tweet combined DataFrame with details for each data
 
-***Data Analysis/Visulaization***
+***Data Analysis/Visualization***
 
     Tweets Time Series Analysis
 
