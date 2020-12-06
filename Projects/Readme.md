@@ -1,4 +1,4 @@
-## Projects (NLP)
+## Projects (Natural Language Processing)
 In this section, we will perform certain projects pertaining to NLP.
 
 ### 1. Sentiment Analysis using Real Time Twitter Data
